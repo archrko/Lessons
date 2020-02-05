@@ -20,12 +20,7 @@ public class Lessons {
         System.out.println(c2);
         System.out.println(c1);
         System.out.println();
-        System.out.println("TEST COMMIT");
-        System.out.println("TEST COMMIT");
-        System.out.println("TEST COMMIT");
-        System.out.println("TEST COMMIT");
-        System.out.println("TEST COMMIT");
-        System.out.println("TEST COMMIT");
+
 
     }
 }
