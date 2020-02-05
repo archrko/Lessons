@@ -19,6 +19,11 @@ public class Lessons {
         --b;
         System.out.println("decrement b" + b);
         System.out.println("see?");
-
+        int x = 3;
+        int y = 5;
+        int z = 6;
+        boolean boolVal = x == y;
+        int res = x > y ? x : y;
+        System.out.println(res);
     }
 }
