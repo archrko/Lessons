@@ -23,6 +23,9 @@ public class Lessons {
         System.out.println("TEST COMMIT");
         System.out.println("TEST COMMIT");
         System.out.println("TEST COMMIT");
+        System.out.println("TEST COMMIT");
+        System.out.println("TEST COMMIT");
+        System.out.println("TEST COMMIT");
 
     }
 }
