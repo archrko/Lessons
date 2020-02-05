@@ -18,6 +18,7 @@ public class Lessons {
         System.out.println("increment a = " + a);
         --b;
         System.out.println("decrement b" + b);
+        System.out.println("see?");
 
     }
 }
